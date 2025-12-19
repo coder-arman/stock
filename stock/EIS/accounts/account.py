@@ -1,0 +1,8 @@
+name=input("account holder name:")
+ac=int(input("enter account number:"))
+branch=input("enter branch name:")
+ifsc_code=int(input("enter ifsc code:"))
+print ("Account holder name  :",name)
+print ("Account number       :",ac)
+print ("Account branch name  :",branch)
+print ("IFSC code            :",ifsc_code)

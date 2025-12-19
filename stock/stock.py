@@ -1,0 +1,6 @@
+item_name= input("item name-")
+quantity= int(input("product quantity-"))
+price= int(input("enter price-"))
+print ("item name  :",item_name)
+print ("quantity   :",quantity)
+print ("price      :",price)
